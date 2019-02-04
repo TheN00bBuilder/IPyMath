@@ -8,6 +8,6 @@ To read about how to use this little code, do `./ipmath.py -help` to read the fe
 
 The correct way to call the methods is...
 ```
-from ipmath import Domath
-Domath.maths("ip_string", True/False (for verbosity))
+from ipmath import domath
+domath("ip_string", True/False (for verbosity))
 ```
