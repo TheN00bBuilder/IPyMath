@@ -1,4 +1,4 @@
-# python_easy_ip_math
+# IPyMath
 Easy IP and subnet mask math for Python.
 
 To make this work, give it execute permissions with `chmod +x ipmath.py' . 
